@@ -15,11 +15,11 @@ const config = {
             // "options"   : {
             //     "encrypt" : false
             // }
-        "user"      : "test",
-        "server"    : "192.168.0.106",
-        // "user"      : "sa",
+        // "user"      : "test",
+        // "server"    : "192.168.0.106",
+        "user"      : "sa",
         "password"  : "qw12qw12",
-        // "server"    : "192.168.0.135",
+        "server"    : "192.168.0.135",
         "port"      : 1433,
         "database"  : "aTEST",
         // "timezone"  : 'utc',
