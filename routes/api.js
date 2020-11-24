@@ -15,8 +15,6 @@ const config = {
             // "options"   : {
             //     "encrypt" : false
             // }
-        // "user"      : "test",
-        // "server"    : "192.168.0.106",
         "user"      : "sa",
         "password"  : "qw12qw12",
         "server"    : "192.168.0.135" , 
